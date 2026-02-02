@@ -1,0 +1,16 @@
+{
+  "emulator.emulatorPath": "C:\\Users\\mjhay\\AppData\\Local\\Android\\Sdk\\emulator",
+  "emulator.emulatorPathMac": "~/Library/Android/sdk/emulator",
+  "emulator.emulatorPathLinux": "~/Android/Sdk/emulator",
+  "docked-android-ios-emulator.androidSdkPath": "C:\\Users\\mjhay\\AppData\\Local\\Android\\Sdk",
+  "java.jdt.ls.java.home": "C:\\Program Files\\Android\\Android Studio\\jbr",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Program Files\\Android\\Android Studio\\jbr",
+      "default": true
+    }
+  ],
+  "java.import.gradle.java.home": "C:\\Program Files\\Android\\Android Studio\\jbr",
+  "gradle.nestedProjects": false
+}
