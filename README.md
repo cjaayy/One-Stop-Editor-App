@@ -1,16 +1,16 @@
-# one_stop_editor
+# One Stop Editing App
 
-A new Flutter project.
+A Flutter mobile application for photo and video editing with templates, AI-powered tools, and creative features.
+
+## Features
+
+- User authentication (Email/Password, Google Sign-In)
+- Templates gallery
+- Editing tools (Import, AI Edit, Crop, Adjust)
+- Recent projects management
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Install Flutter SDK (3.24.0+)
+2. Run `flutter pub get` to install dependencies
+3. Run `flutter run` to launch the app
